@@ -1,0 +1,33 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+
+div {
+  margin: 0;
+  padding: 0;
+}
+
+.sqr {
+  background: #CCCCCC;
+  width: 50px;
+  height: 50px;  
+  margin: 0px;
+  padding: 0px;
+  display: inline-block;
+}
+
+.row {
+  height: 50px;
+  width: 100%;
+  display: block;
+}
+
+.black {
+  background: #000000;
+}
+
+.red {
+  background: #FF0000;
+}
