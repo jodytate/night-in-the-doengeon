@@ -9,6 +9,13 @@ div {
   padding: 0;
 }
 
+.grid-square {
+  background: #CCCCCC;
+  float: left;
+  width: 5%;
+  padding-bottom: 5%;
+}
+
 .sqr {
   background: #CCCCCC;
   width: 50px;
@@ -39,13 +46,4 @@ div {
 .amethyst {
   background: #BA55D3;
   border-radius: 50px 50px 15px 15px;
-}
-
-#egg {
-   display:block;
-   width: 126px;
-   height: 180px;
-   background-color: #BA55D3;
-   -webkit-border-radius: 63px 63px 63px 63px / 108px 108px 72px 72px;
-   border-radius:         50%  50%  50%  50%  / 60%   60%   40%  40%;
 }
